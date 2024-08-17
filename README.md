@@ -67,4 +67,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Contact
-For more information or questions, contact via gigi.bduarte@gmail.com
+For more information or questions, contact via pfgom.ita@gmail.com or gigi.bduarte@gmail.com 
